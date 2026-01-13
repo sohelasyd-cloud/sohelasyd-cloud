@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Sohel Sayyad
 
-<!--
-**sohelasyd-cloud/sohelasyd-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer | .NET & React | AI + TravelTech Projects**
 
-Here are some ideas to get you started:
+I love building real-world applications, learning new technologies, and solving problems using clean code and modern tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 My Projects
+
+### 🌍 DesitineAI – AI Powered Travel Planning System
+- React + Vite
+- Firebase Authentication
+- Google APIs (Maps, Places)
+- AI-based trip recommendations
+- Responsive UI  
+👉 *[Repository Link](https://github.com/sohelasyd-cloud/DesitineAI)*
+
+### 💪 FitTrack360 – Fitness Tracking App
+- ASP.NET Core MVC
+- SQL Server
+- Workout & Progress Tracking  
+👉 *[Repository Link](https://github.com/sohelasyd-cloud/FitTrack360)*
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+React.js, Vite, JavaScript, Tailwind CSS, ShadCN UI
+
+**Backend:**  
+ASP.NET Core, Entity Framework Core, REST APIs
+
+**Database:**  
+SQL Server, Firebase Firestore, MySQL
+
+**Tools:**  
+Git, GitHub, VS Code, Visual Studio, Postman
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohelasyd-cloud&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohelasyd-cloud&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+📧 Email: *your email here*  
+💼 LinkedIn: *your LinkedIn link here*
+
