@@ -46,9 +46,5 @@ Git, GitHub, VS Code, Visual Studio, Postman
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohelasyd-cloud&layout=compact&theme=tokyonight)
 
----
 
-## 📫 Connect With Me
-📧 Email: *your email here*  
-💼 LinkedIn: *your LinkedIn link here*
 
